@@ -15,5 +15,10 @@ namespace TryIcon
         {
             InitializeComponent();
         }
+
+        private void MenuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
